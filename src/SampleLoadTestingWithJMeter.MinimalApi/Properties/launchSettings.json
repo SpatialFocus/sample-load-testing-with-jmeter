@@ -1,0 +1,13 @@
+﻿{
+	"profiles": {
+		"SampleLoadTestingWithJMeter.MinimalApi": {
+			"commandName": "Project",
+			"dotnetRunMessages": true,
+			"launchBrowser": true,
+			"applicationUrl": "https://localhost:5555;",
+			"environmentVariables": {
+				"ASPNETCORE_ENVIRONMENT": "Development"
+			}
+		}
+	}
+}
